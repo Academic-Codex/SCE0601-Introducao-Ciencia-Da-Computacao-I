@@ -2,7 +2,7 @@ REPO_TAGLINE: Foundations of computer science • logic • programming
 ASSETS_DIR: .github/readme
 CTA_TEXT: Access the full course website
 THEME: notes
-SITE_URL: https://academic-codex.github.io/SCE0600-Introducao-Ciencia-Da-Computacao-I
+SITE_URL: https://academic-codex.github.io/SCE0601-Introducao-Ciencia-Da-Computacao-I
 
 BG_1: "#064E3B"
 BG_2: "#065F46"
